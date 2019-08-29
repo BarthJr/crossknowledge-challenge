@@ -1,0 +1,7 @@
+# IDE
+/.idea/
+/cache_function/.idea/
+
+#VirtualEnv
+/cache_function/venv/
+
